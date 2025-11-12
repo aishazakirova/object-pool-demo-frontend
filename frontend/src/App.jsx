@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PoolStatus from "./PoolStatus";
+import PoolStatus from "./poolStatus";
 
 export default function App() {
   const [result, setResult] = useState(null);
